@@ -9,7 +9,7 @@ AMF 과정에서는 줌 대신 게더타운과 온라인 보드를 활용합니�
 아래 사이트에 입장하여 자신만의 계정을 각자 만드시기 바랍니다.
 
 > - gather town 입장 : https://app.gather.town/app/9HTmUf3uGr7IR3To/AMF-L3
->  - 일단 아바타까지만 생성하시고, 비번은 당일 아침 공지해드립니다.
+>   - (일단 아바타까지만 생성하시고, 비번은 당일 아침 공지해드립니다.)
 > - [miro.com](https://miro.com/) 가입
 > - [marimba.team](https://www.marimba.team/) 가입   
 
@@ -36,8 +36,7 @@ AMF 과정에서는 줌 대신 게더타운과 온라인 보드를 활용합니�
 <br>
 
 **4. 게더타운 안내**
-> - 첫째날은 **9:00까지** 입장입니다.
-> - 2일차부터는 매일 아침  <font color="darkred">**9:10까지**</font> 게더타운 팀별 회의실로 입장 바랍니다.
+> - 첫째날은 **9:00까지** 입장이며, 2일차부터는 매일 아침  <font color="darkred">**9:10까지**</font> 게더타운 팀별 회의실로 입장합니다.
 > - QR 체크인 한 후에, 게더타운에서 매일 Daily Scrum을 실시합니다.
 > - 강의 외 시간에 질문이 있는 경우, Supporters 공간으로 이동하여 해당 아바타를 찾으시면 됩니다.
 
@@ -52,29 +51,30 @@ AMF 과정에서는 줌 대신 게더타운과 온라인 보드를 활용합니�
 
 ## 강의 자료 및 목표
 
-### 1주차 (Sprint #0)
+### 1주차 주요 과목 (Sprint #0)
 
 #### 공통
 - Orientation (1일차 오전 진행)
   
 #### [ Agile ](./agile/about-agile.md/) 
 
-#### [ MSA 설계 ](./msa/about-msa.md/) 
+#### [ MSA ](./msa/about-msa.md/) 
 
-#### [ MSA Back-end Dev ](https://www.msaschool.io/operation/introduction/related-resource/) 
+- [**Back-end 개발**](https://www.msaschool.io/operation/introduction/related-resource/) 
+- [ **Front-end 개발** ](***TBD)(2주차에 진행) 
 
 ---
-### 2주차 (Sprint #1)
+### 2주차 주요 과목 (Sprint #1)
 
-#### [ ZCP  ](./cloud-zcp/about-zcp.md/) 
+#### Cloud
+- [ **ZCP** ](./cloud-zcp/about-zcp.md/) 
 
-#### [ AWS  ](./cloud-aws/about-aws.md/) 
+- [ **AWS** ](./cloud-aws/about-aws.md/) 
 
-#### [ Azure  ](./cloud-azure/about-azure.md/) 
+- [ **Azure** ](./cloud-azure/about-azure.md/) 
 
-#### [ MSA Front-end Dev ](***TBD) 
 
-#### [ DevOps  ](./devops/devops.md/) 
+#### [ DevOps  ](./devops/about-devops.md/) 
 
 ***
 
