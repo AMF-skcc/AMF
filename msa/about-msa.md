@@ -1,7 +1,20 @@
-# MSA Collection for AMF
+
+## MSA 과정 학습 목표 및 자료 
+### 1일차 
+#### OOO
+- 학습목표 : 
+- 학습자료 : [...](...)
+<br>   
+
+
+### 2일차 
+#### OOO
+- 학습목표 : 
+- 학습자료 : [...](...)
+<br>   
+
 
 # Table of contents
-- [MSA Collection for AMF](#msa-collection-for-amf)
 - [Table of contents](#table-of-contents)
 - [애플리케이션 샘플](#애플리케이션-샘플)
   - [Front](#front)
